@@ -1,8 +1,9 @@
 # Smooth Stray Animations for Pathologic 2
 
-A small [BepInEx](https://github.com/BepInEx/BepInEx) plugin that fixes the stray ~30 FPS animations left in
-Pathologic 2: a few dozen staged characters and cutscene actors that animate ~30 times per second however high your
-frame rate is. With the mod they animate every frame.
+A small [BepInEx](https://github.com/BepInEx/BepInEx) plugin that fixes the rare leftover ~30 FPS animations in
+Pathologic 2. Only a few dozen staged characters and cutscene actors are affected, not regular NPCs. They animate
+~30 times per second however high your frame rate is; with the mod they animate every frame. Most players will see
+these characters only a few times in a playthrough.
 
 > **Testing status.** This mod has been tested much less than the others. The author has personally checked only one
 > case in game: the girl playing hopscotch in the prologue. That is also why it is a separate mod and not part of
